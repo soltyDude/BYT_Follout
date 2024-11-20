@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d785e461_002Dba3e_002D46f1_002D985b_002Db8a2f1dc689e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PetTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.PetTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::ArmorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.DeathClawTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.ExplorerTeamTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.JunkTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.MoleRatTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.RaiderTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.ResourceProductionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.RoomCreationCloathTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.ShelterTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.StorageTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.VillagerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A3D5E0F-B54B-4961-92EE-3B099522B4BA::net8.0::Fallout.Tests.TrainingTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
